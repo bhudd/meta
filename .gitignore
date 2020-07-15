@@ -5,3 +5,56 @@ coverage
 plugins/*
 yarn-error.log
 coverage
+
+/space/meta:
+
+/space/meta ✓
+
+plugins/find-file-recursively-up:
+
+plugins/find-file-recursively-up ✓
+
+plugins/get-meta-file:
+
+plugins/get-meta-file ✓
+
+plugins/loop:
+
+plugins/loop ✓
+
+plugins/meta-exec:
+
+plugins/meta-exec ✓
+
+plugins/meta-gh:
+
+plugins/meta-gh ✓
+
+plugins/meta-git:
+
+plugins/meta-git ✓
+
+plugins/meta-init:
+
+plugins/meta-init ✓
+
+plugins/meta-loop:
+
+plugins/meta-loop ✓
+
+plugins/meta-npm:
+
+plugins/meta-npm ✓
+
+plugins/meta-project:
+
+plugins/meta-project ✓
+
+plugins/meta-yarn:
+
+plugins/meta-yarn ✓
+
+plugins/symlink-meta-dependencies:
+
+plugins/symlink-meta-dependencies ✓
+yarn.lock
